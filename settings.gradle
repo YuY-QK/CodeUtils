@@ -1,0 +1,3 @@
+rootProject.name='CodeUtils'
+include ':app'
+include ':codelib'
